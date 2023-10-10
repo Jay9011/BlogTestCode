@@ -21,5 +21,14 @@
     <ClCompile Include="lvalueAndrvalue.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="rvalue-reference.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="callByRightReference.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="perfectforwarding.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
