@@ -12,5 +12,6 @@ void _stdcall func2(int a, int b)
 
 int main()
 {
+	func1(1, 2);
 	func2(1, 2);
 }
