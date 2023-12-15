@@ -18,5 +18,11 @@
     <ClCompile Include="Lambda.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="funcPtr.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Delegate.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
