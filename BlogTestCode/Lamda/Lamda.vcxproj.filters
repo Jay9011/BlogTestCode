@@ -24,5 +24,17 @@
     <ClCompile Include="Delegate.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="typedefAndUsing.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="typedef.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="functional.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ClassFuncPtr.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
