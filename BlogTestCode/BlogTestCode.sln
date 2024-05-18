@@ -15,6 +15,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DataStruct-Array", "DataStr
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ComputerArchitecture", "ComputerArchitecture\ComputerArchitecture.vcxproj", "{307B7440-728B-4AFA-805F-ED3F32296D88}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "OOP", "OOP\OOP.vcxproj", "{A9D9BD3C-176F-4A4F-A5F3-3D1001745FC8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -71,6 +73,14 @@ Global
 		{307B7440-728B-4AFA-805F-ED3F32296D88}.Release|x64.Build.0 = Release|x64
 		{307B7440-728B-4AFA-805F-ED3F32296D88}.Release|x86.ActiveCfg = Release|Win32
 		{307B7440-728B-4AFA-805F-ED3F32296D88}.Release|x86.Build.0 = Release|Win32
+		{A9D9BD3C-176F-4A4F-A5F3-3D1001745FC8}.Debug|x64.ActiveCfg = Debug|x64
+		{A9D9BD3C-176F-4A4F-A5F3-3D1001745FC8}.Debug|x64.Build.0 = Debug|x64
+		{A9D9BD3C-176F-4A4F-A5F3-3D1001745FC8}.Debug|x86.ActiveCfg = Debug|Win32
+		{A9D9BD3C-176F-4A4F-A5F3-3D1001745FC8}.Debug|x86.Build.0 = Debug|Win32
+		{A9D9BD3C-176F-4A4F-A5F3-3D1001745FC8}.Release|x64.ActiveCfg = Release|x64
+		{A9D9BD3C-176F-4A4F-A5F3-3D1001745FC8}.Release|x64.Build.0 = Release|x64
+		{A9D9BD3C-176F-4A4F-A5F3-3D1001745FC8}.Release|x86.ActiveCfg = Release|Win32
+		{A9D9BD3C-176F-4A4F-A5F3-3D1001745FC8}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
