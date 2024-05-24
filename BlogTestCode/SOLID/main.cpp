@@ -1,17 +1,17 @@
 #include <iostream>
-#include "Shape.h"
+#include <exception>
+
+#include "LiskovSubstitutionPrinciple.h"
 
 using namespace std;
 
 int main()
 {
-	Rectangle rectangle;
-	rectangle.width = 3.0f;
-	rectangle.height = 4.0f;
+	Bird* birds[2] = { new Eagle(), new Penguin() };
+	for (size_t i = 0; i < 2; i++)
+	{
+		birds[i]->SetAltitude(100);
+	}
 
-	Circle circle;
-	circle.radius = 5.0f;
-
-	cout << "Rectangle Area: " << rectangle.GetArea() << endl;
-	cout << "Circle Area: " << circle.GetArea() << endl;
+	delete[] birds;
 }
